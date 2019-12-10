@@ -1849,3 +1849,21 @@ Script Stack (0 frames):
 [2019.12.10-12.32.30:856][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
 [2019.12.10-12.32.30:903][226]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2019.12.10-12.32.31:843][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.35.00:724][451]AssetReimport: New page: Outstanding source content changes 14:35:00
+[2019.12.10-12.35.00:725][451]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/HUDAssets/StaminaBarNormal.png)
+[2019.12.10-12.35.00:775][451]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/StaminaBarNormal6C97374C422C493A69BEEC9B8A2AD2E6.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/HUDAssets/StaminaBarNormal.uasset'
+[2019.12.10-12.35.03:789][565]AssetReimport: Importing new asset /Game/ThirdPersonBP/Blueprints/HUDAssets/StaminaBarNormal.
+[2019.12.10-12.35.32:946][ 27]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.35.32:990][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.10-12.37.42:861][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.10-12.37.43:145][788]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_Auto4F4FE88A74F2A6A4F1FD53FA51102A1E0.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2019.12.10-12.37.43:151][788]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.330
+[2019.12.10-12.37.43:151][788]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.330
+[2019.12.10-12.37.43:153][788]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.10-12.37.43:204][788]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.10-12.37.43:204][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.10-12.37.43:260][788]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonCharacter_Auto4EF0896BF4B314B99E43B4886BD6B46C6.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2019.12.10-12.37.43:262][788]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD] ([1] browsable assets)...
+[2019.12.10-12.37.43:262][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD]
+[2019.12.10-12.37.43:284][788]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUD_Auto4803A721E471A508C48E4CD9D07274236.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUD_Auto4.uasset'
+[2019.12.10-12.37.43:285][788]LogFileHelpers: Auto-saving content packages took 0.132
