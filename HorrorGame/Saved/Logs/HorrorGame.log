@@ -1040,3 +1040,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-11.56.34:284][323]Cmd: TRANSACTION UNDO
 [2019.12.10-11.56.34:284][323]LogEditorTransaction: Undo Change Bool Pin Value
 [2019.12.10-11.56.35:208][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-11.58.01:971][733]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.12.10-11.58.02:497][733]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_Auto255CFAA9D403AC1226437749EE03AB771.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.12.10-11.58.02:506][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.612
+[2019.12.10-11.58.02:507][733]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.612
+[2019.12.10-11.58.02:509][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.10-11.58.02:577][733]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.10-11.58.02:577][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.10-11.58.02:665][733]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonCharacter_Auto2BFFDA5464A2183EA18E61DA7B42042C0.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.12.10-11.58.02:666][733]LogFileHelpers: Auto-saving content packages took 0.158
