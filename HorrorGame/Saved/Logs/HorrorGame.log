@@ -1500,3 +1500,26 @@ Script Stack (0 frames):
 [2019.12.10-12.20.00:329][922]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonCharacterA3F47E33475691C0A6C5BAA8E9D1E5E7.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2019.12.10-12.20.00:379][922]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/PickupMaterialCFAAD877443A3AA0E098EEAB4AB61AE1.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/PickupMaterial.uasset'
 [2019.12.10-12.20.00:421][922]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUDD219A6FA4E30FE4C70D7879DBA402822.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.10-12.20.38:725][592]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.20.38:768][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.20.38:769][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.20.38:769][592]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2019.12.10-12.20.38:769][592]LogCustomDialog: Dialog displayed:
+[2019.12.10-12.20.44:495][592]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.10-12.20.46:972][725]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-12.20.46:981][725]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-12.20.49:777][852]LogSlate: Window 'SurvivalHUD' being destroyed
+[2019.12.10-12.20.49:802][852]LogSlate: Window 'SurvivalHUD' being destroyed
+[2019.12.10-12.20.49:843][852]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.20.49:950][852]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.10-12.20.49:951][852]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.20.50:048][852]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.20.50:057][852]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.20.51:145][877]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.10-12.21.03:306][547]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.10-12.21.10:905][977]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.21.11:407][977]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2019.12.10-12.21.28:644][664]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD
+[2019.12.10-12.26.38:132][716]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.12.10-12.26.38:583][716]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap8071F58F45E02F084C83828BE78D77D2.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-12.26.38:899][716]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_BuiltDataE060A7F0410BEE485AEB568D112F635A.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
