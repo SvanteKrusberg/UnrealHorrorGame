@@ -1867,3 +1867,1530 @@ Script Stack (0 frames):
 [2019.12.10-12.37.43:262][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD]
 [2019.12.10-12.37.43:284][788]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUD_Auto4803A721E471A508C48E4CD9D07274236.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUD_Auto4.uasset'
 [2019.12.10-12.37.43:285][788]LogFileHelpers: Auto-saving content packages took 0.132
+[2019.12.10-12.38.48:593][684]AssetReimport: New page: Outstanding source content changes 14:38:48
+[2019.12.10-12.38.48:595][684]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/HUDAssets/StaminaBarEmpty.png)
+[2019.12.10-12.38.48:628][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/HUDAssets/HungerBarEmpty.png)
+[2019.12.10-12.38.48:671][685]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/StaminaBarEmpty57AFFEFC4A5A4E5BC9152BAE653BCFA3.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/HUDAssets/StaminaBarEmpty.uasset'
+[2019.12.10-12.38.48:691][685]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/HungerBarEmpty30B621AC41A6AA21BC5365BB9DAFA205.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/HUDAssets/HungerBarEmpty.uasset'
+[2019.12.10-12.38.51:705][827]AssetReimport: Importing new asset /Game/ThirdPersonBP/Blueprints/HUDAssets/StaminaBarEmpty.
+[2019.12.10-12.38.51:705][827]AssetReimport: Importing new asset /Game/ThirdPersonBP/Blueprints/HUDAssets/HungerBarEmpty.
+[2019.12.10-12.39.33:868][893]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.39.33:911][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.10-12.42.55:513][366]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.10-12.43.13:361][287]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.10-12.44.24:757][978]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.44.24:798][978]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.44.30:470][249]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD
+[2019.12.10-12.45.42:245][868]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.45.42:455][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.10-12.46.09:891][272]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.10-12.46.10:091][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.10-12.46.12:531][402]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.46.12:568][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.46.12:568][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.46.12:568][402]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:46:12)
+[2019.12.10-12.46.12:568][402]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.46.12:635][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066539s)
+[2019.12.10-12.46.12:636][402]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.46.12:636][402]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2019.12.10-12.46.12:636][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.068130s)
+[2019.12.10-12.46.12:672][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.10-12.46.12:674][402]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.46.12:744][402]LogInit: FAudioDevice initialized.
+[2019.12.10-12.46.12:750][402]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.46.12:753][402]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.46.12
+[2019.12.10-12.46.12:753][402]LogWorld: Bringing up level for play took: 0.002668
+[2019.12.10-12.46.12:753][402]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.12.10-12.46.12:756][402]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,899
+[2019.12.10-12.46.12:756][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.46.17:527][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.10-12.46.22:530][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.10-12.46.24:941][210]LogBlueprintUserMessages: [PickupHunger_2] 75
+[2019.12.10-12.46.27:533][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.10-12.46.28:328][443]LogBlueprintUserMessages: [PickupHunger2_5] 75
+[2019.12.10-12.46.32:544][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.10-12.46.36:238][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.46.36:238][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.46.36:239][982]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.46.36:239][982]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.46.36:276][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.46.36:277][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.46.36:322][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.46.36:327][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.10-12.46.36:344][983]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.12.10-12.46.41:743][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.47.03:515][470]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.47.03:744][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.10-12.47.05:792][580]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.47.05:815][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.05:815][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.47.05:815][580]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:47:05)
+[2019.12.10-12.47.05:815][580]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.47.05:870][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054926s)
+[2019.12.10-12.47.05:872][580]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.47.05:872][580]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2019.12.10-12.47.05:872][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057131s)
+[2019.12.10-12.47.05:909][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.10-12.47.05:911][580]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.47.05:974][580]LogInit: FAudioDevice initialized.
+[2019.12.10-12.47.05:983][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.47.05:985][580]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.47.05
+[2019.12.10-12.47.05:986][580]LogWorld: Bringing up level for play took: 0.002300
+[2019.12.10-12.47.05:986][580]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.12.10-12.47.05:988][580]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,13
+[2019.12.10-12.47.05:988][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.06:781][624]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 95
+[2019.12.10-12.47.07:788][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.10-12.47.08:800][757]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.10-12.47.09:814][826]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2019.12.10-12.47.10:817][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.10-12.47.11:827][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70
+[2019.12.10-12.47.12:831][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 65
+[2019.12.10-12.47.13:836][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60
+[2019.12.10-12.47.14:392][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.14:392][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.47.14:392][153]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.47.14:392][153]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.47.14:429][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.47.14:430][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.14:471][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.47.14:476][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.10-12.47.14:492][154]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.12.10-12.47.15:905][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.47.33:288][121]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.47.33:503][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.10-12.47.35:505][231]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.47.35:524][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.35:524][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.47.35:524][231]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:47:35)
+[2019.12.10-12.47.35:525][231]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.47.35:575][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050805s)
+[2019.12.10-12.47.35:576][231]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.47.35:577][231]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2019.12.10-12.47.35:577][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052503s)
+[2019.12.10-12.47.35:616][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.10-12.47.35:619][231]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.47.35:685][231]LogInit: FAudioDevice initialized.
+[2019.12.10-12.47.35:694][231]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.47.35:698][231]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.47.35
+[2019.12.10-12.47.35:698][231]LogWorld: Bringing up level for play took: 0.002414
+[2019.12.10-12.47.35:698][231]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.12.10-12.47.35:700][231]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,158
+[2019.12.10-12.47.35:701][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.40:196][523]LogBlueprintUserMessages: [PickupHunger2_5] 100
+[2019.12.10-12.47.43:767][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.43:767][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.47.43:767][764]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.47.43:767][764]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.47.43:806][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.47.43:806][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.47.43:844][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.47.43:850][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.10-12.47.43:867][765]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.12.10-12.47.44:974][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.47.50:727][102]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.47.54:136][219]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/PickupHunger.PickupHunger
+[2019.12.10-12.48.20:765][496]BlueprintLog: New page: Compile PickupHunger
+[2019.12.10-12.48.20:966][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.12.10-12.48.23:423][623]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.48.23:441][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.48.23:441][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.48.23:441][623]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:48:23)
+[2019.12.10-12.48.23:441][623]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.48.23:493][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052134s)
+[2019.12.10-12.48.23:495][623]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.48.23:495][623]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2019.12.10-12.48.23:495][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053829s)
+[2019.12.10-12.48.23:532][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.10-12.48.23:535][623]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.48.23:603][623]LogInit: FAudioDevice initialized.
+[2019.12.10-12.48.23:611][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.48.23:614][623]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.48.23
+[2019.12.10-12.48.23:615][623]LogWorld: Bringing up level for play took: 0.002578
+[2019.12.10-12.48.23:615][623]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.12.10-12.48.23:617][623]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,242
+[2019.12.10-12.48.23:617][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.48.33:483][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.48.33:484][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.48.33:484][273]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.48.33:484][273]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.48.33:523][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.48.33:523][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.48.33:566][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.48.33:571][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.10-12.48.33:587][274]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.12.10-12.49.15:779][920]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-12.49.15:835][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.10-12.49.16:129][920]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_Auto5E4EBCDAC42ECEDB58C4D738AC507055B.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2019.12.10-12.49.16:135][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.333
+[2019.12.10-12.49.16:135][920]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.333
+[2019.12.10-12.49.16:138][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.10-12.49.16:209][920]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.10-12.49.16:209][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.10-12.49.16:272][920]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonCharacter_Auto518270F8941A7F6AC25D49C92DD7EA3E1.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2019.12.10-12.49.16:273][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PickupHunger] ([1] browsable assets)...
+[2019.12.10-12.49.16:325][920]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/PickupHunger.PickupHunger]
+[2019.12.10-12.49.16:325][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PickupHunger]
+[2019.12.10-12.49.16:367][920]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/PickupHunger_Auto5F2353A7C438C473B6FBF8589F9AD4952.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PickupHunger_Auto5.uasset'
+[2019.12.10-12.49.16:368][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD] ([1] browsable assets)...
+[2019.12.10-12.49.16:368][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD]
+[2019.12.10-12.49.16:397][920]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUD_Auto5715FC5C84B8FDC0132566BA120EAD8F3.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUD_Auto5.uasset'
+[2019.12.10-12.49.16:398][920]LogFileHelpers: Auto-saving content packages took 0.260
+[2019.12.10-12.50.34:426][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.50.36:295][801]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.10-12.50.55:890][638]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.10-12.50.55:949][638]LogMaterial: Display: Missing cached shader map for material PickupMaterial, compiling. 
+[2019.12.10-12.50.55:987][639]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.50.55:987][639]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.50.55:987][639]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.50.56:904][671]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.12.10-12.50.56:911][671]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.10-12.50.57:040][676]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.10-12.50.57:420][690]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-12.50.57:427][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.10-12.50.57:498][693]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.10-12.50.57:706][700]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.10-12.50.57:891][707]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.12.10-12.50.57:959][709]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.12.10-12.50.59:649][771]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.12.10-12.50.59:656][771]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.10-12.50.59:671][772]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.10-12.51.00:439][800]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.10-12.51.00:793][813]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.10-12.51.00:841][815]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.10-12.51.01:342][833]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.10-12.51.01:502][839]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.10-12.51.01:741][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.10-12.51.02:287][867]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.10-12.51.02:287][867]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.10-12.51.02:287][867]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.51.02:287][867]MaterialEditorStats: Texture samplers: 5/16
+[2019.12.10-12.51.02:287][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.10-12.51.02:287][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.51.18:956][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.52.07:543][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.52.19:200][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.53.09:284][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.53.09:321][415]Cmd: MODE GRID=0
+[2019.12.10-12.53.16:904][690]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.10-12.53.16:955][690]LogMaterial: Display: Missing cached shader map for material PickupMaterial, compiling. 
+[2019.12.10-12.53.16:972][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.53.16:972][690]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.53.16:972][690]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.53.17:446][708]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-12.53.17:593][714]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.10-12.53.17:915][725]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.10-12.53.17:923][725]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.10-12.53.18:036][730]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.10-12.53.18:320][740]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.10-12.53.18:327][740]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.12.10-12.53.18:327][740]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.12.10-12.53.18:640][749]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.12.10-12.53.19:250][771]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.12.10-12.53.19:257][771]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.10-12.53.19:441][778]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2019.12.10-12.53.20:148][804]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.10-12.53.20:156][804]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.10-12.53.20:232][807]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.10-12.53.20:767][827]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.10-12.53.21:028][833]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.10-12.53.21:085][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.10-12.53.21:580][848]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.10-12.53.21:580][848]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.10-12.53.21:580][848]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.53.21:580][848]MaterialEditorStats: Texture samplers: 5/16
+[2019.12.10-12.53.21:580][848]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.10-12.53.21:580][848]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.53.46:249][724]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.10-12.53.46:302][724]LogMaterial: Display: Missing cached shader map for material PickupMaterial, compiling. 
+[2019.12.10-12.53.46:343][725]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.53.46:343][725]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.53.46:343][725]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.53.46:944][748]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.10-12.53.46:951][748]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.10-12.53.47:256][760]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.10-12.53.47:262][760]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.12.10-12.53.47:269][760]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.10-12.53.47:581][771]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.10-12.53.47:660][774]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.10-12.53.47:667][774]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.12.10-12.53.48:057][789]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.12.10-12.53.48:557][807]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.10-12.53.48:570][808]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.12.10-12.53.48:614][810]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.10-12.53.49:274][833]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.12.10-12.53.49:443][840]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.10-12.53.49:569][845]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.10-12.53.49:923][853]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.10-12.53.50:051][858]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.10-12.53.50:179][861]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.10-12.53.50:772][882]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.10-12.53.50:772][882]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.10-12.53.50:772][882]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.53.50:772][882]MaterialEditorStats: Texture samplers: 5/16
+[2019.12.10-12.53.50:772][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.10-12.53.50:772][882]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.53.54:459][ 14]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.10-12.53.54:510][ 14]LogMaterial: Display: Missing cached shader map for material PickupMaterial, compiling. 
+[2019.12.10-12.53.54:525][ 14]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.10-12.53.54:525][ 14]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.10-12.53.54:525][ 14]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.10-12.53.55:065][ 35]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.10-12.53.55:077][ 36]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.10-12.53.55:089][ 36]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.12.10-12.53.55:512][ 51]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.12.10-12.53.55:522][ 52]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.10-12.53.55:528][ 52]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.10-12.53.55:785][ 62]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.10-12.53.55:950][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.10-12.53.55:957][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.12.10-12.53.56:513][ 88]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.12.10-12.53.56:629][ 92]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.10-12.53.56:719][ 95]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.10-12.53.56:937][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.53.57:083][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.10-12.53.57:095][108]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.10-12.53.57:304][116]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.10-12.53.57:810][131]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.10-12.53.57:872][132]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.10-12.53.58:082][141]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.10-12.53.58:620][160]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.10-12.53.58:620][160]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.10-12.53.58:620][160]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.10-12.53.58:620][160]MaterialEditorStats: Texture samplers: 5/16
+[2019.12.10-12.53.58:620][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.10-12.53.58:620][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.10-12.53.59:810][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.53.59:891][206]Cmd: MODE GRID=1
+[2019.12.10-12.54.08:610][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.54.08:693][524]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.54.08:951][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.10-12.54.10:234][558]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonCharacter553562B8494FE7CD0C62CEB802193ADA.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.10-12.54.12:489][655]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.54.12:508][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.54.12:508][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.54.12:508][655]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:54:12)
+[2019.12.10-12.54.12:508][655]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.54.12:562][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053062s)
+[2019.12.10-12.54.12:563][655]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.54.12:563][655]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2019.12.10-12.54.12:564][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054719s)
+[2019.12.10-12.54.12:603][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.10-12.54.12:606][655]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.54.12:672][655]LogInit: FAudioDevice initialized.
+[2019.12.10-12.54.12:683][655]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.54.12:685][655]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.54.12
+[2019.12.10-12.54.12:686][655]LogWorld: Bringing up level for play took: 0.002431
+[2019.12.10-12.54.12:686][655]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2019.12.10-12.54.12:689][655]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,826
+[2019.12.10-12.54.12:689][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.54.19:009][ 95]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.54.19:010][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.54.19:010][ 95]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.54.19:010][ 95]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.54.19:046][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.54.19:046][ 95]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.54.19:094][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.54.19:100][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.10-12.54.19:115][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.12.10-12.54.24:716][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.54.52:838][523]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.54.53:062][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.10-12.54.55:130][607]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.54.55:152][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.54.55:152][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.54.55:152][607]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:54:55)
+[2019.12.10-12.54.55:152][607]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.54.55:205][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051766s)
+[2019.12.10-12.54.55:206][607]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.54.55:206][607]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2019.12.10-12.54.55:206][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053646s)
+[2019.12.10-12.54.55:245][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.10-12.54.55:247][607]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.54.55:310][607]LogInit: FAudioDevice initialized.
+[2019.12.10-12.54.55:318][607]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.54.55:321][607]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.54.55
+[2019.12.10-12.54.55:321][607]LogWorld: Bringing up level for play took: 0.002346
+[2019.12.10-12.54.55:322][607]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2019.12.10-12.54.55:324][607]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,54
+[2019.12.10-12.54.55:324][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.55.10:718][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.55.10:719][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.55.10:719][642]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.55.10:719][642]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.55.10:757][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.55.10:758][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.55.10:801][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.55.10:806][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.12.10-12.55.10:822][643]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.12.10-12.55.11:798][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.55.30:826][365]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.55.31:039][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.10-12.55.33:580][477]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.55.33:601][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.55.33:601][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.55.33:601][477]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:55:33)
+[2019.12.10-12.55.33:601][477]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.55.33:653][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051506s)
+[2019.12.10-12.55.33:654][477]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.55.33:655][477]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2019.12.10-12.55.33:655][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053121s)
+[2019.12.10-12.55.33:695][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.10-12.55.33:697][477]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.55.33:762][477]LogInit: FAudioDevice initialized.
+[2019.12.10-12.55.33:770][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.55.33:772][477]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.10-13.55.33
+[2019.12.10-12.55.33:773][477]LogWorld: Bringing up level for play took: 0.002359
+[2019.12.10-12.55.33:773][477]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2019.12.10-12.55.33:775][477]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,089
+[2019.12.10-12.55.33:775][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.56.03:838][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:853][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:867][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:881][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:895][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:910][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:925][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:940][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:953][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:967][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:981][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.03:996][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:010][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:024][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:038][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:052][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:066][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:080][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:094][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:109][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:124][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:138][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:152][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:165][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:179][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:194][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:208][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:222][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:236][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:249][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:263][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:277][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:292][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:306][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:319][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:334][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:347][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:362][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:377][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:391][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:404][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:418][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:431][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:445][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:459][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:474][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:489][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:503][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:517][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:531][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:544][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:558][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:572][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:586][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:600][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:613][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:627][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:642][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:658][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:671][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:685][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:700][572]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:714][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:728][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:742][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:758][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:773][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:787][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:801][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:816][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:831][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:846][582]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:860][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:876][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:892][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:905][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:921][587]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:935][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:949][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:965][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:980][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.04:994][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:009][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:025][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:039][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:053][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:068][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:083][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:097][599]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:112][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:126][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:140][602]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:155][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:168][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:182][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:197][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:210][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:225][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:238][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:253][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:267][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:281][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:294][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:308][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:321][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:336][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:350][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:364][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:378][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:392][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:406][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:420][622]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:435][623]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:449][624]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:462][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:476][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:491][627]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:505][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:519][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:533][630]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:547][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:562][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:577][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:592][634]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:607][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:619][636]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:633][637]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:648][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:662][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:676][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:690][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:706][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:719][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:731][644]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:745][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:760][646]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:775][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:789][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:801][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:815][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:829][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:843][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:857][653]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:871][654]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:886][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:900][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:912][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:926][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:940][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:953][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:968][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:981][662]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.05:995][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:009][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:023][665]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:038][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:051][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:065][668]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:079][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:093][670]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:108][671]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:121][672]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:135][673]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:150][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:163][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:178][676]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:192][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:206][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:219][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:233][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:247][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:262][682]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:276][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:291][684]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:306][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:320][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:334][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:348][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:363][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:376][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:391][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:406][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:421][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:436][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:450][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:463][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:478][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:492][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:507][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:522][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:535][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:551][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:566][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:579][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:593][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:608][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:622][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:637][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:650][709]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:664][710]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:679][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:694][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:708][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:724][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:737][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:752][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:766][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:781][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:795][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:809][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:824][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:838][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:853][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:868][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:881][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:895][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:910][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:925][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:942][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:956][730]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:970][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:985][732]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.06:998][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:013][734]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:027][735]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:042][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:057][737]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:071][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:085][739]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:099][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:114][741]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:128][742]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:143][743]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:159][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:173][745]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:188][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:202][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:216][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:230][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:245][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:262][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:276][752]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:291][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:307][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:321][755]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:336][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:351][757]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:365][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:379][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:394][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:409][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:424][762]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:440][763]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:454][764]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:469][765]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:484][766]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:499][767]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:515][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:529][769]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:544][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:560][771]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:575][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:591][773]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:605][774]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:619][775]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:633][776]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:649][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:664][778]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:680][779]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:694][780]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:709][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:723][782]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:738][783]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:754][784]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:769][785]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:783][786]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:797][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:811][788]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:826][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:841][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:855][791]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:870][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:884][793]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:900][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:915][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:929][796]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:943][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:958][798]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:973][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.07:988][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:002][801]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:017][802]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:032][803]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:047][804]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:063][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:077][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:092][807]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:108][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:122][809]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:139][810]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:154][811]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:168][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:183][813]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:199][814]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:213][815]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:228][816]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:243][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:258][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:273][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:289][820]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:303][821]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:318][822]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:333][823]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:348][824]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:363][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:379][826]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:394][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:408][828]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:423][829]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:438][830]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:494][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:500][832]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:508][833]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:517][834]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:529][835]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:543][836]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:558][837]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:572][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:587][839]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:601][840]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:616][841]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:630][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:644][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:659][844]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:673][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:688][846]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:703][847]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:717][848]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:731][849]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:746][850]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:760][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:775][852]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:791][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:805][854]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:821][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:835][856]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:849][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:863][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:877][859]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:892][860]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:907][861]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:923][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:937][863]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:951][864]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:965][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:979][866]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.08:994][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:009][868]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:024][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:039][870]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:053][871]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:068][872]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:082][873]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:097][874]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:112][875]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:126][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:142][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:156][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:171][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:185][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:200][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:214][882]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:229][883]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:244][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:259][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:275][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:290][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:304][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:319][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:334][890]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:348][891]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:363][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:378][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:392][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:408][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:424][896]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:437][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:451][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:466][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:481][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:496][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:510][902]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:525][903]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:541][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:555][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:569][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:585][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:600][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:613][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:628][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:643][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:657][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:671][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:686][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:700][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:715][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:729][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:744][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:759][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:773][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:787][921]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:802][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:817][923]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:832][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:846][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:860][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:875][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:891][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:905][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:921][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:935][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:949][932]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:963][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:978][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.09:993][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:008][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:023][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:037][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:051][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:066][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:081][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:096][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:110][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:126][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:141][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:156][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:170][947]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:185][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:199][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:215][950]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:229][951]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:244][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:259][953]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:275][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:288][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:303][956]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:319][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:333][958]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:347][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:362][960]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:377][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:392][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:407][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:422][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:436][965]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:450][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:465][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:479][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:494][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:509][970]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:524][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:538][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:552][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:567][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:582][975]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:597][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:611][977]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:626][978]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:641][979]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:655][980]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:669][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:684][982]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:699][983]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:714][984]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:728][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:742][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:757][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:771][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:786][989]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:800][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:815][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:829][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:844][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:859][994]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:874][995]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:889][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:902][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:917][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:931][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:946][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:961][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:976][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.10:991][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:005][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:019][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:034][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:049][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:063][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:078][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:093][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:109][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:123][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:138][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:152][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:167][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:181][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:196][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:210][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:225][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:241][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:255][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:269][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:284][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:299][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:312][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:327][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:342][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:356][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:372][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:386][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:400][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:414][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:429][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:443][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:458][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:473][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:487][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:502][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:516][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:531][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:545][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:560][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:574][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:589][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:603][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:618][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:632][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:646][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:661][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:676][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:691][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:706][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:720][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:734][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:748][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:764][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:777][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:792][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:807][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:822][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:836][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:852][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:866][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:881][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:896][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:911][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:927][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:942][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:957][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:972][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.11:987][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:003][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:018][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:035][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:048][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:065][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:079][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:094][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:109][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:125][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:140][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:155][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:169][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:184][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:198][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:213][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:228][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:244][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:259][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:275][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:289][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:304][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:319][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:333][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:348][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:363][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:378][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:393][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:408][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:424][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:439][101]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:453][102]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:468][103]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:484][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:499][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:516][106]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:530][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:544][108]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:560][109]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:576][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:591][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:607][112]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:621][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:637][114]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:652][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:666][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:682][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:698][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:713][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:728][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:743][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:759][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:775][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:792][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:806][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:821][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:837][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:852][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:867][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:883][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:899][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:915][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:930][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:944][134]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:960][135]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:975][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.12:992][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:007][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:022][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:038][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:053][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:069][142]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:086][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:102][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:118][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:134][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:150][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:164][148]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:180][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:195][150]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:211][151]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:227][152]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:243][153]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:259][154]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:276][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:289][156]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:304][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:320][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:335][159]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:350][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:366][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:380][162]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:395][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:410][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:425][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:441][166]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:456][167]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:472][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:485][169]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:500][170]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:515][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:530][172]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:544][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:560][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:575][175]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:590][176]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:603][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:618][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:633][179]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:648][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:663][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:677][182]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:693][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:708][184]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:722][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:737][186]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:751][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:766][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:780][189]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:795][190]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:810][191]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:825][192]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:840][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:854][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:869][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:884][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:898][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:912][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:926][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:942][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:956][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:971][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.13:986][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:000][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:014][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:029][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:044][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:059][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:074][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:088][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:104][211]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:119][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:133][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:148][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:163][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:178][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:192][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:208][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:223][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:237][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:252][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:267][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:281][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:296][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:311][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:326][226]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:342][227]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:356][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:370][229]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:384][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:399][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:414][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:429][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:445][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:460][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:476][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:489][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:503][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:518][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:532][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:547][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:561][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:577][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:592][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:607][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:621][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:636][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:651][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:666][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:681][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:695][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:711][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:725][253]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:741][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:756][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:770][256]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:784][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:798][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:814][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:828][260]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:842][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:858][262]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:873][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:888][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:902][265]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:916][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:931][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:946][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:961][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:976][270]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.14:992][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:008][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:022][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:036][274]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:052][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:066][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:083][277]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:098][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:112][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:126][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:141][281]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:156][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:171][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:184][284]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:197][285]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:212][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:226][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:241][288]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:255][289]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:270][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:284][291]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:298][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:314][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:328][294]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:342][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:358][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:373][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:386][298]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:400][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:415][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:430][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:446][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:461][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:475][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:488][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:502][306]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:517][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:532][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:546][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:561][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:576][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:591][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:605][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:620][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:634][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:648][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:663][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:677][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:692][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:706][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:721][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:735][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:750][323]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:764][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:778][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:793][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:807][327]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:821][328]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:835][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:850][330]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:864][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:878][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:894][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:908][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:922][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:936][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:950][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:964][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:979][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.15:993][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:009][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:024][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:038][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:051][344]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:066][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:081][346]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:095][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:110][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:126][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:141][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:155][351]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:170][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:187][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:201][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:215][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:230][356]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:245][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:261][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:276][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:292][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:306][361]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:321][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:336][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:350][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:364][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:379][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:394][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:409][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:423][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:439][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:453][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:466][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:480][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:494][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:510][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:525][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:539][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:553][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:567][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:580][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:595][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:610][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:624][383]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:639][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:652][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:666][386]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:680][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:694][388]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:711][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:725][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:740][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:753][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:767][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:781][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:795][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:810][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:825][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:839][398]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:855][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:870][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:883][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:897][402]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:912][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:926][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:942][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:956][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:970][407]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:985][408]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.16:999][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:014][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:028][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:043][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:059][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:073][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:088][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:102][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:117][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:132][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:146][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:161][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:175][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:190][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:202][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:216][424]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:231][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:245][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:260][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:275][428]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:289][429]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:303][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:317][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:330][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:345][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:360][434]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:375][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:388][436]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:402][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:416][438]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:430][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:445][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:459][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:473][442]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:486][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:500][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:514][445]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:528][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:543][447]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:556][448]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:570][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:584][450]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:598][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:612][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:627][453]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:643][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:655][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:670][456]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:683][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:697][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:711][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:727][460]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:741][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:756][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:770][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:783][464]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:798][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:813][466]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:828][467]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:841][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:855][469]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:870][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:884][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:898][472]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:912][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:927][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:943][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:955][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:971][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:985][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.17:998][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:012][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:027][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:042][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:055][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:070][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:083][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:098][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:112][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:126][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:141][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:155][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:169][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:183][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:198][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:212][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:226][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:241][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:255][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:269][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:284][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:298][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:312][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:327][502]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:343][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:356][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:371][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:385][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:399][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:414][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:429][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:444][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:458][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:473][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:487][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:501][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:515][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:530][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:544][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:559][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:575][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:589][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:604][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:618][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:631][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:646][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:661][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:676][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:690][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:704][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:718][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:733][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:748][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:763][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:777][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:792][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:807][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:821][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:835][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:850][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:865][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:880][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:895][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:909][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:925][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:940][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:954][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:969][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:983][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.18:997][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:012][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:026][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:041][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:056][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:071][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:086][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:100][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:114][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:128][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:143][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:158][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:173][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:187][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:200][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:214][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:228][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:243][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:257][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:271][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:285][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:299][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:312][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:327][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:342][572]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:356][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:370][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:384][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:398][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:412][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:426][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:441][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:455][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:469][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:484][582]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:497][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:512][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:527][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:542][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:555][587]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:569][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:584][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:598][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:613][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:627][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:642][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:656][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:670][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:684][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:698][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:712][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:727][599]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:742][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:755][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:769][602]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:784][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:798][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:811][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:825][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:840][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:854][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:868][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:882][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.56.19:883][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.56.19:884][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.56.19:884][610]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.56.19:884][610]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.56.19:921][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.56.19:921][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.56.19:978][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.56.19:986][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.10-12.56.20:009][611]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.12.10-12.56.21:404][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-12.56.32:819][220]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.10-12.56.33:033][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.12.10-12.56.35:215][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-12.56.35:239][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.56.35:239][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-12.56.35:240][320]PIE: New page: PIE session: ThirdPersonExampleMap (10 dec 2019 14:56:35)
+[2019.12.10-12.56.35:240][320]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.56.35:293][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052961s)
+[2019.12.10-12.56.35:294][320]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-12.56.35:294][320]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2019.12.10-12.56.35:294][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054627s)
+[2019.12.10-12.56.35:333][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.10-12.56.35:335][320]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-12.56.35:399][320]LogInit: FAudioDevice initialized.
+[2019.12.10-12.56.35:407][320]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-12.56.35:410][320]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.10-13.56.35
+[2019.12.10-12.56.35:410][320]LogWorld: Bringing up level for play took: 0.002593
+[2019.12.10-12.56.35:410][320]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2019.12.10-12.56.35:413][320]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,452
+[2019.12.10-12.56.35:413][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.56.55:238][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.10-12.57.00:105][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.57.00:106][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.57.00:106][787]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-12.57.00:106][787]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-12.57.00:132][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-12.57.00:132][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-12.57.00:175][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-12.57.00:181][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.10-12.57.00:227][789]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.12.10-12.57.01:389][851]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-12.57.01:435][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.10-12.57.01:722][851]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap2C9BAD7B4F958087107602A0652BC3C7.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-12.57.01:783][851]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_BuiltDataF971596D4270CA469537468C26C6E8C2.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.10-12.57.06:635][940]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-12.57.07:458][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.10-12.57.07:464][987]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-12.57.07:545][987]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonCharacter17EC2EE64183B5BF9F9C5D9C6F2F82B0.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.10-12.57.07:605][987]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/PickupHunger21FD992242ED5F85FD7DD2B1516E9768.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/PickupHunger.uasset'
+[2019.12.10-12.57.07:640][987]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUD9C3A06AC41A68C9FC6CEA68A88CB38F4.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
