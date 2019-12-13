@@ -2291,3 +2291,193 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-13.19.31:684][626]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUDC8C09F7B4EFEF66DF4E6868471074C2F.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
 [2019.12.13-13.19.31:780][626]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/BatteryPickupC79D86D14CA016ED4367C0A487E85D88.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/BatteryPickup.uasset'
 [2019.12.13-13.19.31:877][626]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/WoodInventPickup9E43D2D144EB8F5B87F78A979A7D8BE3.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/WoodInventPickup.uasset'
+[2019.12.13-13.20.58:526][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.24.29:934][558]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-13.24.30:038][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.13-13.26.39:743][770]LogEditorTransaction: Undo Move Widget
+[2019.12.13-13.27.45:626][898]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-13.27.45:696][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.13-13.27.47:849][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.27.47:916][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-13.27.47:949][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.27.47:949][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-13.27.47:949][ 15]PIE: New page: PIE session: ThirdPersonExampleMap (13 dec 2019 15:27:47)
+[2019.12.13-13.27.47:949][ 15]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-13.27.48:004][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053945s)
+[2019.12.13-13.27.48:005][ 15]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-13.27.48:006][ 15]LogPlayLevel: PIE: World Init took: (0.001991s)
+[2019.12.13-13.27.48:006][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056091s)
+[2019.12.13-13.27.48:048][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.12.13-13.27.48:050][ 15]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-13.27.48:116][ 15]LogInit: FAudioDevice initialized.
+[2019.12.13-13.27.48:125][ 15]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-13.27.48:128][ 15]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.13-14.27.48
+[2019.12.13-13.27.48:128][ 15]LogWorld: Bringing up level for play took: 0.002794
+[2019.12.13-13.27.48:129][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2019.12.13-13.27.48:133][ 15]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,025
+[2019.12.13-13.27.48:133][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.27.50:401][156]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Discarding
+[2019.12.13-13.27.53:602][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.27.53:716][387]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.27.55:446][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Not discarding
+[2019.12.13-13.27.57:682][661]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.13-13.27.58:108][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Discarding
+[2019.12.13-13.28.00:647][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.28.00:733][868]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.01:857][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Not discarding
+[2019.12.13-13.28.04:563][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Discarding
+[2019.12.13-13.28.07:473][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.28.07:589][336]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.10:213][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Not discarding
+[2019.12.13-13.28.15:849][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Discarding
+[2019.12.13-13.28.20:048][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.28.20:150][204]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.22:120][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Not discarding
+[2019.12.13-13.28.25:374][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Discarding
+[2019.12.13-13.28.27:061][687]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.27:162][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.28.27:250][700]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.27:423][712]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.27:599][724]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.27:774][736]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.27:950][748]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.28:124][760]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.28:299][772]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.28:460][783]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.28:634][795]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.28:807][807]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.28:965][818]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.29:136][830]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.29:295][841]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.29:466][853]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.29:639][865]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.29:799][876]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.29:972][888]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.30:148][900]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.30:294][910]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.30:481][923]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.30:656][935]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.30:817][946]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.32:244][ 45]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.32:402][ 56]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.32:546][ 66]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.32:719][ 78]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.32:865][ 88]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.33:037][100]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.33:194][111]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.33:369][123]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.33:543][135]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.34:552][205]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.34:711][216]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.34:898][229]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.35:070][241]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.35:257][254]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.35:432][266]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.35:590][277]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.35:764][289]LogBlueprintUserMessages: [SurvivalHUD_C_0] Hello
+[2019.12.13-13.28.36:026][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Not discarding
+[2019.12.13-13.28.44:325][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.28.44:326][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-13.28.44:326][886]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-13.28.44:326][886]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-13.28.44:361][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-13.28.44:361][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.28.44:408][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-13.28.44:415][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.13-13.28.44:433][887]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.12.13-13.28.48:840][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.31.18:081][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.13-13.31.18:384][981]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_Auto872FB481146700B055B47B1925A3D1A32.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2019.12.13-13.31.18:388][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.350
+[2019.12.13-13.31.18:388][981]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2019.12.13-13.31.18:390][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD] ([1] browsable assets)...
+[2019.12.13-13.31.18:390][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD]
+[2019.12.13-13.31.18:463][981]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUD_Auto815DAAD5143978924D7A57CB751ABF4D8.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUD_Auto8.uasset'
+[2019.12.13-13.31.18:464][981]LogFileHelpers: Auto-saving content packages took 0.075
+[2019.12.13-13.31.23:472][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.33.40:869][539]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.13-13.37.15:173][825]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-13.37.15:247][825]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.12.13-13.38.29:092][723]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-13.38.29:162][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.12.13-13.38.31:314][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.38.31:413][849]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-13.38.31:433][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.38.31:433][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-13.38.31:433][849]PIE: New page: PIE session: ThirdPersonExampleMap (13 dec 2019 15:38:31)
+[2019.12.13-13.38.31:434][849]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-13.38.31:487][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053700s)
+[2019.12.13-13.38.31:489][849]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-13.38.31:489][849]LogPlayLevel: PIE: World Init took: (0.001600s)
+[2019.12.13-13.38.31:489][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055507s)
+[2019.12.13-13.38.31:533][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.13-13.38.31:535][849]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-13.38.31:602][849]LogInit: FAudioDevice initialized.
+[2019.12.13-13.38.31:608][849]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-13.38.31:611][849]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.13-14.38.31
+[2019.12.13-13.38.31:611][849]LogWorld: Bringing up level for play took: 0.002679
+[2019.12.13-13.38.31:612][849]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2019.12.13-13.38.31:616][849]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,503
+[2019.12.13-13.38.31:616][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.38.37:291][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Discarding
+[2019.12.13-13.38.46:830][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.38.50:102][152]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Not discarding
+[2019.12.13-13.38.53:088][364]LogBlueprintUserMessages: [WoodInventPickup5_14] Inventory is full
+[2019.12.13-13.38.55:632][536]LogBlueprintUserMessages: [ObjectiveChange_2] true
+[2019.12.13-13.39.00:939][905]LogBlueprintUserMessages: [WoodInventPickup3_8] Inventory is full
+[2019.12.13-13.39.02:486][ 15]LogBlueprintUserMessages: [WoodInventPickup3_8] Inventory is full
+[2019.12.13-13.39.03:135][ 61]LogBlueprintUserMessages: [WoodInventPickup3_8] Inventory is full
+[2019.12.13-13.39.04:026][124]LogBlueprintUserMessages: [WoodInventPickup3_8] Inventory is full
+[2019.12.13-13.39.04:722][173]LogBlueprintUserMessages: [WoodInventPickup3_8] Inventory is full
+[2019.12.13-13.39.05:393][220]LogBlueprintUserMessages: [WoodInventPickup3_8] Inventory is full
+[2019.12.13-13.39.06:052][266]LogBlueprintUserMessages: [WoodInventPickup3_8] Inventory is full
+[2019.12.13-13.39.07:873][396]LogBlueprintUserMessages: [WoodInventPickup_2] Inventory is full
+[2019.12.13-13.39.13:838][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Discarding
+[2019.12.13-13.39.17:498][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.39.17:635][ 85]LogBlueprintUserMessages: [WoodInventPickup_C_4] Inventory is full
+[2019.12.13-13.39.18:179][124]LogBlueprintUserMessages: [WoodInventPickup_C_5] Inventory is full
+[2019.12.13-13.39.18:179][124]LogBlueprintUserMessages: [WoodInventPickup_C_4] Inventory is full
+[2019.12.13-13.39.18:179][124]LogBlueprintUserMessages: [WoodInventPickup_C_5] Inventory is full
+[2019.12.13-13.39.18:179][124]LogBlueprintUserMessages: [WoodInventPickup_C_5] Inventory is full
+[2019.12.13-13.39.18:179][124]LogBlueprintUserMessages: [WoodInventPickup_C_4] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_6] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_4] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_6] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_6] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_5] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_6] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_6] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_4] Inventory is full
+[2019.12.13-13.39.18:528][149]LogBlueprintUserMessages: [WoodInventPickup_C_5] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_7] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_7] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_7] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_7] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_6] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_7] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_4] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_7] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_5] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_7] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_6] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_4] Inventory is full
+[2019.12.13-13.39.18:780][167]LogBlueprintUserMessages: [WoodInventPickup_C_5] Inventory is full
+[2019.12.13-13.39.23:029][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.39.23:130][477]LogBlueprintUserMessages: [WoodInventPickup_C_8] Inventory is full
+[2019.12.13-13.39.27:216][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Not discarding
+[2019.12.13-13.39.30:733][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.39.30:733][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-13.39.30:733][993]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-13.39.30:733][993]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-13.39.30:771][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-13.39.30:771][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-13.39.30:813][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-13.39.30:818][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.13-13.39.30:834][994]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.12.13-13.39.32:108][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-13.39.33:257][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.13-13.39.33:263][147]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-13.39.33:309][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.13-13.39.33:619][147]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap4EFA91204169FBDE11293D8759F96F9D.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.13-13.39.33:667][147]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.397
+[2019.12.13-13.39.33:753][147]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUDC99677E440C87A25C3C6DDBAB4F66264.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
