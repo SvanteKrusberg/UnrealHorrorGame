@@ -1332,3 +1332,200 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-11.48.31:256][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2019.12.13-11.48.31:623][239]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMapAE198EA9404433A0BAE696A93D6FB13D.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.13-11.48.31:697][239]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_BuiltData20B799A5465E9827F7A319BF8422D036.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.13-11.49.13:744][572]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-11.49.13:818][572]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.12.13-11.49.14:190][572]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap7FFC4E5B4F9A30A6DBE65CA078BD3D85.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.13-11.49.14:239][572]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_BuiltData92DC857D4DC03994DCDC52B2DFE6F16E.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.13-11.49.16:240][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.50.19:428][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.51.22:717][ 46]AssetReimport: New page: Outstanding source content changes 13:51:22
+[2019.12.13-11.51.22:721][ 46]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryPickup_Diffuse.png)
+[2019.12.13-11.51.22:760][ 47]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryPickup_Emmisive.png)
+[2019.12.13-11.51.22:861][ 48]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/BatteryPickup_DiffuseF581611C4EC765AB9B10E3963E9C6FA9.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryPickup_Diffuse.uasset'
+[2019.12.13-11.51.22:904][ 48]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/BatteryPickup_Emmisive122EDD13473C5B46C6226ABD4BF54C19.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryPickup_Emmisive.uasset'
+[2019.12.13-11.51.25:929][198]AssetReimport: Importing new asset /Game/Assets/BatteryPickup_Diffuse.
+[2019.12.13-11.51.25:929][198]AssetReimport: Importing new asset /Game/Assets/BatteryPickup_Emmisive.
+[2019.12.13-11.51.42:398][ 41]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Battery.Battery
+[2019.12.13-11.51.42:404][ 41]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.51.42:791][ 41]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.51.42:808][ 41]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.51.42:830][ 41]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.13-11.51.42:830][ 41]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.13-11.51.42:830][ 41]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.13-11.51.43:877][ 75]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.13-11.51.43:914][ 76]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.13-11.51.44:008][ 80]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.13-11.51.44:368][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.13-11.51.44:458][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.13-11.51.44:660][105]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.13-11.51.44:667][105]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.13-11.51.45:023][119]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.13-11.51.45:197][127]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.12.13-11.51.45:808][151]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.12.13-11.51.45:981][158]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.13-11.51.46:427][176]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.13-11.51.46:904][195]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.12.13-11.51.46:999][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.13-11.51.47:212][207]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.13-11.51.47:817][231]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.13-11.51.47:949][236]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.13-11.51.48:151][244]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.13-11.51.48:863][272]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.12.13-11.51.48:863][272]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.12.13-11.51.48:863][272]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.13-11.51.48:863][272]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-11.51.57:538][576]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.51.57:555][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.13-11.51.57:570][576]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.13-11.51.57:570][576]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.13-11.51.57:570][576]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.13-11.51.57:576][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.13-11.51.58:130][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.12.13-11.51.58:151][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.13-11.51.58:202][606]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.13-11.51.58:658][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.13-11.51.58:665][621]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.13-11.51.58:674][621]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.13-11.51.58:967][633]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.13-11.51.59:222][645]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.12.13-11.51.59:351][651]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.13-11.51.59:388][651]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.51.59:406][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.13-11.51.59:424][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.13-11.51.59:433][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.13-11.52.00:153][685]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.13-11.52.00:203][688]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.12.13-11.52.00:527][703]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.13-11.52.00:625][707]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.13-11.52.00:869][717]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.13-11.52.01:211][732]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.12.13-11.52.01:258][733]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2019.12.13-11.52.01:401][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.13-11.52.01:691][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.13-11.52.01:829][756]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.13-11.52.01:872][758]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.13-11.52.02:177][770]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.13-11.52.02:852][797]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.13-11.52.03:037][804]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.12.13-11.52.03:151][809]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.12.13-11.52.03:855][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.13-11.52.03:975][842]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.13-11.52.04:239][852]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.12.13-11.52.04:882][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.13-11.52.05:133][888]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.13-11.52.05:143][888]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.12.13-11.52.05:887][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.12.13-11.52.05:902][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.13-11.52.06:283][933]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.13-11.52.06:307][934]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.12.13-11.52.06:307][934]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.12.13-11.52.06:307][934]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.13-11.52.06:307][934]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-11.52.06:726][951]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.13-11.52.06:805][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.13-11.52.07:098][966]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.13-11.52.07:507][982]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.13-11.52.07:870][996]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.13-11.52.08:588][ 23]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.52.08:614][ 23]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.13-11.52.08:614][ 23]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.13-11.52.08:614][ 23]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.13-11.52.08:614][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.13-11.52.09:177][ 47]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.13-11.52.09:194][ 47]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.13-11.52.09:303][ 52]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.13-11.52.09:875][ 74]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.13-11.52.09:892][ 75]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.13-11.52.09:942][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.13-11.52.10:250][ 89]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.13-11.52.10:455][ 97]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.12.13-11.52.10:474][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.13-11.52.11:427][136]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.13-11.52.11:889][154]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.13-11.52.12:099][162]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.12.13-11.52.12:154][163]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.52.12:178][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.13-11.52.12:456][173]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.13-11.52.12:747][187]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.13-11.52.13:008][197]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.12.13-11.52.13:360][209]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.13-11.52.13:707][225]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.13-11.52.13:717][225]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.12.13-11.52.13:763][226]LogMaterialEditor: Applying material Battery
+[2019.12.13-11.52.14:212][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2019.12.13-11.52.14:212][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.13-11.52.14:212][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.13-11.52.14:231][226]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.52.14:288][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.13-11.52.14:311][226]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.52.14:335][226]LogMaterial: Display: Missing cached shader map for material Battery, compiling. 
+[2019.12.13-11.52.14:350][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.12.13-11.52.14:409][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.12.13-11.52.14:414][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.12.13-11.52.14:425][226]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.13-11.52.16:988][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.12.13-11.52.16:991][226]TextureStreamingBuild: Display: Compiling optional shaders took 2.576 seconds.
+[2019.12.13-11.52.17:053][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.12.13-11.52.18:380][275]LogMaterialEditor: Saving and Compiling material Battery
+[2019.12.13-11.52.19:851][275]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.13-11.52.19:851][275]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.13-11.52.19:851][275]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.13-11.52.19:913][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Battery" FILE="../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/Battery.uasset" SILENT=true
+[2019.12.13-11.52.19:935][275]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Battery191C40C24E1AD83C13D7038322BF03DF.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/Battery.uasset'
+[2019.12.13-11.52.19:961][275]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.13-11.52.19:961][275]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.13-11.52.19:961][275]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.13-11.52.19:961][275]MaterialEditorStats: Texture samplers: 5/16
+[2019.12.13-11.52.19:961][275]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.13-11.52.19:961][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.13-11.52.21:236][319]LogSlate: Window 'Battery' being destroyed
+[2019.12.13-11.52.21:265][319]LogSlate: Window 'Battery' being destroyed
+[2019.12.13-11.52.21:294][319]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.21:412][319]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.21:462][319]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-11.52.21:462][319]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.21:515][319]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.21:521][319]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.21:566][319]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-11.52.21:566][319]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.21:620][319]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-11.52.21:620][319]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.21:714][319]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.26:510][555]LogEditorViewport: Clicking on Actor (LMB): BatteryPickup_C (BatteryPickup3)
+[2019.12.13-11.52.32:773][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.52.38:968][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BatteryPickup.BatteryPickup
+[2019.12.13-11.52.44:212][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.52.48:660][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.52.48:754][525]BlueprintLog: New page: Compile BatteryPickup
+[2019.12.13-11.52.49:174][525]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2019.12.13-11.52.51:444][603]LogSlate: Window 'BatteryPickup' being destroyed
+[2019.12.13-11.52.51:480][603]LogSlate: Window 'BatteryPickup' being destroyed
+[2019.12.13-11.52.51:487][603]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-11.52.52:752][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.13-11.53.16:788][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
