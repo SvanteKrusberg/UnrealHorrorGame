@@ -1529,3 +1529,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-11.52.51:487][603]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
 [2019.12.13-11.52.52:752][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2019.12.13-11.53.16:788][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.13-11.56.14:234][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.56.21:516][ 18]AssetReimport: New page: Outstanding source content changes 13:56:21
+[2019.12.13-11.56.21:517][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryBarFill.png)
+[2019.12.13-11.56.21:526][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryBar.png)
+[2019.12.13-11.56.21:583][ 19]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/BatteryBarFillD98FE9A046511852E89BCAAF9F055A71.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryBarFill.uasset'
+[2019.12.13-11.56.21:595][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BatteryBar" FILE="../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryBar.uasset" SILENT=true
+[2019.12.13-11.56.21:603][ 19]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/BatteryBar19A783A14B8A3AEFC3B2E6BA29762686.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/Assets/BatteryBar.uasset'
+[2019.12.13-11.56.24:619][150]AssetReimport: Importing new asset /Game/Assets/BatteryBarFill.
+[2019.12.13-11.56.24:619][150]AssetReimport: Importing new asset /Game/Assets/BatteryBar.
+[2019.12.13-11.56.39:242][789]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUD.SurvivalHUD
+[2019.12.13-11.59.14:885][213]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.13-12.00.11:773][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.12.13-12.00.12:110][903]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMap_Auto202C3A2B14A3416C0A1A2CFAFFD1CCBAF.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.12.13-12.00.12:113][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.472
+[2019.12.13-12.00.12:113][903]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.472
+[2019.12.13-12.00.12:115][903]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD] ([1] browsable assets)...
+[2019.12.13-12.00.12:115][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUD]
+[2019.12.13-12.00.12:154][903]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUD_Auto2028AB03646E91E95B01E9FAD15F9EC82.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUD_Auto2.uasset'
+[2019.12.13-12.00.12:155][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PickupHunger] ([1] browsable assets)...
+[2019.12.13-12.00.12:206][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/PickupHunger.PickupHunger]
+[2019.12.13-12.00.12:206][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PickupHunger]
+[2019.12.13-12.00.12:244][903]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/PickupHunger_Auto2EC4AACAC4AD06EA54793A48D8FB0E9B5.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PickupHunger_Auto2.uasset'
+[2019.12.13-12.00.12:245][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BatteryPickup] ([1] browsable assets)...
+[2019.12.13-12.00.12:296][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BatteryPickup.BatteryPickup]
+[2019.12.13-12.00.12:296][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BatteryPickup]
+[2019.12.13-12.00.12:325][903]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/BatteryPickup_Auto261FDAEE34FE76B1D9B34A2980AFE7EA1.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BatteryPickup_Auto2.uasset'
+[2019.12.13-12.00.12:326][903]LogFileHelpers: Auto-saving content packages took 0.212
+[2019.12.13-12.01.13:582][772]BlueprintLog: New page: Compile SurvivalHUD
+[2019.12.13-12.01.13:654][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.12.13-12.01.18:651][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-12.01.18:673][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-12.01.18:673][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.01.18:674][ 26]PIE: New page: PIE session: ThirdPersonExampleMap (13 dec 2019 14:01:18)
+[2019.12.13-12.01.18:674][ 26]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-12.01.18:743][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069081s)
+[2019.12.13-12.01.18:745][ 26]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-12.01.18:745][ 26]LogPlayLevel: PIE: World Init took: (0.002146s)
+[2019.12.13-12.01.18:745][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.071405s)
+[2019.12.13-12.01.18:780][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.13-12.01.18:784][ 26]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-12.01.18:849][ 26]LogInit: FAudioDevice initialized.
+[2019.12.13-12.01.18:859][ 26]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-12.01.18:862][ 26]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.13-13.01.18
+[2019.12.13-12.01.18:862][ 26]LogWorld: Bringing up level for play took: 0.002957
+[2019.12.13-12.01.18:863][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.12.13-12.01.18:865][ 26]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,836
+[2019.12.13-12.01.18:865][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-12.01.20:372][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 49
+[2019.12.13-12.01.20:587][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2019.12.13-12.01.20:789][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 47
+[2019.12.13-12.01.20:993][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 46
+[2019.12.13-12.01.21:193][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 45
+[2019.12.13-12.01.21:405][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 44
+[2019.12.13-12.01.21:606][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 43
+[2019.12.13-12.01.21:819][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 42
+[2019.12.13-12.01.22:033][226]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 41
+[2019.12.13-12.01.22:236][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2019.12.13-12.01.22:441][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 39
+[2019.12.13-12.01.22:653][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 38
+[2019.12.13-12.01.22:867][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 37
+[2019.12.13-12.01.23:067][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 36
+[2019.12.13-12.01.23:280][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 35
+[2019.12.13-12.01.23:492][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 34
+[2019.12.13-12.01.23:704][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 33
+[2019.12.13-12.01.23:918][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 32
+[2019.12.13-12.01.24:119][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 31
+[2019.12.13-12.01.24:320][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2019.12.13-12.01.24:522][388]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 29
+[2019.12.13-12.01.24:665][397]LogBlueprintUserMessages: [BatteryPickup3_8] 54
+[2019.12.13-12.01.24:726][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 53
+[2019.12.13-12.01.24:927][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 52
+[2019.12.13-12.01.25:128][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 51
+[2019.12.13-12.01.25:343][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.13-12.01.25:544][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 49
+[2019.12.13-12.01.25:744][467]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 48
+[2019.12.13-12.01.25:945][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 47
+[2019.12.13-12.01.26:148][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 46
+[2019.12.13-12.01.26:356][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 45
+[2019.12.13-12.01.26:404][509]LogBlueprintUserMessages: [BatteryPickup_2] 70
+[2019.12.13-12.01.26:564][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 69
+[2019.12.13-12.01.26:776][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 68
+[2019.12.13-12.01.26:982][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 67
+[2019.12.13-12.01.27:032][548]LogBlueprintUserMessages: [BatteryPickup2_5] 92
+[2019.12.13-12.01.27:189][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 91
+[2019.12.13-12.01.27:393][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2019.12.13-12.01.27:594][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 89
+[2019.12.13-12.01.27:807][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 88
+[2019.12.13-12.01.28:019][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 87
+[2019.12.13-12.01.32:964][979]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 86
+[2019.12.13-12.01.33:164][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2019.12.13-12.01.33:377][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 84
+[2019.12.13-12.01.33:580][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 83
+[2019.12.13-12.01.33:782][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 82
+[2019.12.13-12.01.33:987][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 81
+[2019.12.13-12.01.34:191][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2019.12.13-12.01.34:397][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 79
+[2019.12.13-12.01.34:601][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 78
+[2019.12.13-12.01.34:806][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 77
+[2019.12.13-12.01.35:017][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 76
+[2019.12.13-12.01.35:228][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.13-12.01.35:439][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 74
+[2019.12.13-12.01.35:648][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 73
+[2019.12.13-12.01.36:632][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-12.01.36:632][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.01.36:632][217]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-12.01.36:632][217]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-12.01.36:670][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.01.36:670][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-12.01.36:708][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.01.36:714][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.13-12.01.36:764][219]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.12.13-12.07.54:119][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.07.56:740][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.13-12.07.56:788][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.13-12.07.57:085][208]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonExampleMapABF848EA4B3A5A7EA533188D6340BA82.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.13-12.07.57:136][208]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.383
+[2019.12.13-12.07.57:211][208]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/ThirdPersonCharacter687DDCA348FF14304B0B7DB1D9CDB0D6.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.13-12.07.57:273][208]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/SurvivalHUDAE60458743BAE9FF23B1639224082973.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/SurvivalHUD.uasset'
+[2019.12.13-12.07.57:316][208]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/PickupHungerAFBC69564B69692DB77CB98FEA06F3C7.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/PickupHunger.uasset'
+[2019.12.13-12.07.57:349][208]LogSavePackage: Moving '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Saved/BatteryPickupC219A52D4379C7AFF315B9B9E8ACD57B.tmp' to '../../../../../../Users/olle.choukrihassels/Documents/Unreal Projects/UnrealHorrorGame/HorrorGame/Content/ThirdPersonBP/Blueprints/BatteryPickup.uasset'
