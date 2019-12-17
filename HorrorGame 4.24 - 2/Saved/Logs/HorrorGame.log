@@ -971,3 +971,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.17-11.50.41:184][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.12.17-11.50.41:189][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
 [2019.12.17-11.50.41:231][385]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.17-11.52.08:399][ 35]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-11.52.08:451][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.12.17-11.52.08:697][ 35]LogSavePackage: Moving '../../../../../../Users/svante.krusberg/Documents/UnrealHorrorGame/HorrorGame 4.24 - 2/Saved/ThirdPersonExampleMap4B3C344A41A3F7D2787D249708076768.tmp' to '../../../../../../Users/svante.krusberg/Documents/UnrealHorrorGame/HorrorGame 4.24 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.17-11.52.08:738][ 35]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2019.12.17-11.52.08:738][ 35]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
